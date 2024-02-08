@@ -1,0 +1,21 @@
+
+.welcome {
+    font-weight: bold;
+
+    &-title {
+        font-size: 2rem;
+        color: plum;
+    }
+
+    &-age {
+        font-style: italic;
+    }
+}
+
+
+.age1 {
+    color: darkviolet;
+}
+.age2 {
+    color: goldenrod;
+}
